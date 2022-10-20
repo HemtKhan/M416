@@ -1,2 +1,2 @@
-from M416 import main
-main()
+import M416
+M416.login()
